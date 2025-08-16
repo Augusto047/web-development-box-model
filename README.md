@@ -24,5 +24,8 @@ It demonstrates the use of fundamental CSS properties and provides a clear visua
 If deployed via GitHub Pages:  
 👉 [View on GitHub Pages](https://USERNAME.github.io/css-box-model-assignment/)
 
+## 👤 Author
+**Augusto Mate**
+
 ## 📜 License
-This project is provided for educational purposes only.  
+This project is provided for educational purposes only.
