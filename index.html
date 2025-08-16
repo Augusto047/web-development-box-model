@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CSS Basics & The Box Model — Assignment</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header container">
+    <h1>CSS Basics & The Box Model</h1>
+    <p class="lead">This page demonstrates fundamental CSS properties and how the Box Model works in practice.</p>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>Basic CSS Properties</h2>
+      <p><span class="example color-example">This text shows the use of <code>color</code>.</span></p>
+      <p><span class="example background-example">This box shows the use of <code>background</code>.</span></p>
+      <p><span class="example font-example">This line shows <code>font-size</code> and <code>font-style</code>.</span></p>
+      <p><span class="example border-example">This demonstrates <code>border</code> and <code>border-radius</code>.</span></p>
+      <p><span class="example spacing-example">This box uses <code>margin</code> and <code>padding</code>.</span></p>
+    </section>
+
+    <section class="card">
+      <h2>Understanding the Box Model</h2>
+      <p>Every element in CSS is a rectangular box consisting of:</p>
+      <ul>
+        <li><strong>Content</strong>: the text or image inside.</li>
+        <li><strong>Padding</strong>: space between the content and the border.</li>
+        <li><strong>Border</strong>: the edge of the element.</li>
+        <li><strong>Margin</strong>: the space outside the border, separating elements.</li>
+      </ul>
+
+      <div class="box-demo">
+        <div class="content">Content</div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2025 Augusto Mate. All rights reserved.</p>
+  </footer>
+</body>
+</html>
