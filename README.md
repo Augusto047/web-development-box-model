@@ -22,7 +22,7 @@ It demonstrates the use of fundamental CSS properties and provides a clear visua
 
 ## 🌍 Live Demo
 If deployed via GitHub Pages:  
-👉 [View on GitHub Pages](https://USERNAME.github.io/css-box-model-assignment/)
+👉 [View on GitHub Pages]([https://augusto047.github.io/css-box-model-assignment/](https://augusto047.github.io/css-box-model-assignment/))
 
 ## 👤 Author
 **Augusto Mate**
