@@ -6,7 +6,6 @@ It demonstrates the use of fundamental CSS properties and provides a clear visua
 ## 📂 Project Structure
 - `index.html` — semantic HTML structure of the page
 - `styles.css` — external CSS stylesheet (organized, commented, and clean)
-- `index-pt.html` + `styles-pt.css` — Portuguese version (for personal study)
 
 ## 🎯 Features Demonstrated
 - Use of **basic CSS properties**: 
